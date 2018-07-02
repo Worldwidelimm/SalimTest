@@ -1,1 +1,3 @@
-alert('Salim Test');
+alert(function(x){
+    return x;
+})("pass");
