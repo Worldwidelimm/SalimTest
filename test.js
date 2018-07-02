@@ -1,7 +1,11 @@
-alert(Salim);
 
 
-function Salim(x){
-    return x;
+
+function Salim(Salim){
+    alert(Salim);
 }Salim("Yo Son");
+
+
+
+
 
