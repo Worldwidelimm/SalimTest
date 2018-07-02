@@ -1,3 +1,7 @@
-alert(function(x){
+alert(Salim);
+
+
+function Salim(x){
     return x;
-})("pass");
+}Salim("Yo Son");
+
