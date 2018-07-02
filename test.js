@@ -1,10 +1,8 @@
 
 
-
-function kicks(lit){
-    alert("hi im paul" + lit);
-}
-kicks("food");
+function kicks(lit){ 
+    alert("hey man" + lit);
+    }kicks("food");
 
 
 
