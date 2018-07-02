@@ -1,9 +1,14 @@
 
 
 
-function Salim(Salim){
-    alert(Salim);
-}Salim("Yo Son");
+function kicks (lit){
+    alert("hi im paul" + lit);
+}
+
+var food = "happiness";
+
+kicks(food);
+
 
 
 
